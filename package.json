@@ -1,5 +1,5 @@
 {
-  "name": "angular-chart.js",
+  "name": "pndv-angular-chart",
   "version": "1.0.1",
   "description": "An angular.js wrapper for Chart.js",
   "homepage": "http://jtblin.github.io/angular-chart.js/",
@@ -17,7 +17,7 @@
   "author": "Jerome Touffe-Blin <jtblin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jtblin/angular-chart.js.git"
+    "url": "git://github.com/pandava-lima/pndv-angular-chart.git"
   },
   "license": "BSD-2-Clause",
   "devDependencies": {
