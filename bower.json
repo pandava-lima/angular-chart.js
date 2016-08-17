@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jtblin/angular-chart.js.git"
+    "url": "git://github.com/pandava-lima/pndv-angular-chart.git"
   },
   "description": "An angular.js wrapper for Chart.js - reactive, responsive, beautiful charts.",
   "moduleType": [
