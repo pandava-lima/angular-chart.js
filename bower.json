@@ -39,6 +39,6 @@
   ],
   "dependencies": {
     "angular": "1.x",
-    "Chart.js": "npm:chart.js#2.x"
+    "Chart.js": "npm:Chart.js#2.x"
   }
 }
